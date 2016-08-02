@@ -3,7 +3,7 @@ file = fs.open("grd","w")
 file.write(http.get("https://raw.githubusercontent.com/CCAppMarket/Installer/master/grd").readAll())
 file.close()
 
-shell.run("grd CCAM Minimal-Install / . .")
+shell.run("grd CCAppMarket Minimal-Install / . .")
 shell.run("mv Minimal-Install/* /")
 
 fs.delete("README.md")
