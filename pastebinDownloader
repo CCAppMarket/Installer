@@ -1,0 +1,4 @@
+file = fs.open("ccam_install",'w')
+file.write( http.get("https://raw.githubusercontent.com/CCAppMarket/Installer/master/ccam_installer.lua").readAll() )
+file.close()
+shell.run("ccam_install")
