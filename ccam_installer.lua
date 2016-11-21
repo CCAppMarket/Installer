@@ -10,9 +10,9 @@ local files = {
 	["/.ccam/app/ccam/main.lua"] = "AppRepository/stable/ccam/main.lua",
 	["/.ccam/app/ccam/app.json"] = "AppRepository/stable/ccam/app.json",
 
-	["/.ccam/lib/ccam/main.lua"] = "LibRepository/stable/ccam/main.lua",
-	["/.ccam/lib/ccam/lib.json"] = "LibRepository/stable/ccam/lib.json",
-	["/.ccam/lib/ccam/repos.json"] = "LibRepository/stable/ccam/repos.json",
+	["/.ccam/lib/libccam/main.lua"] = "LibRepository/stable/libccam/main.lua",
+	["/.ccam/lib/libccam/lib.json"] = "LibRepository/stable/libccam/lib.json",
+	["/.ccam/lib/libccam/repos.json"] = "LibRepository/stable/libccam/repos.json",
 
 	["/.ccam/lib/json/main.lua"] = "LibRepository/stable/json/main.lua",
 	["/.ccam/lib/json/lib.json"] = "LibRepository/stable/json/lib.json",
