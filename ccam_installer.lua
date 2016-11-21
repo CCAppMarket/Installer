@@ -8,20 +8,20 @@ local files = {
 	["/.ccam/bin/ccam"] = "Minimal-Install/master/.ccam/bin/ccam",
 
 	["/.ccam/app/ccam/main.lua"] = "AppRepository/stable/ccam/main.lua",
-	["/.ccam/app/ccam/app.json"] = "AppRepository/stable/ccam/app.json",
+	["/.ccam/app/ccam/config.json"] = "AppRepository/stable/ccam/config.json",
 
 	["/.ccam/lib/libccam/main.lua"] = "LibRepository/stable/libccam/main.lua",
-	["/.ccam/lib/libccam/lib.json"] = "LibRepository/stable/libccam/lib.json",
+	["/.ccam/lib/libccam/config.json"] = "LibRepository/stable/libccam/config.json",
 	["/.ccam/lib/libccam/repos.json"] = "LibRepository/stable/libccam/repos.json",
 
 	["/.ccam/lib/json/main.lua"] = "LibRepository/stable/json/main.lua",
-	["/.ccam/lib/json/lib.json"] = "LibRepository/stable/json/lib.json",
+	["/.ccam/lib/json/config.json"] = "LibRepository/stable/json/config.json",
 
 	["/.ccam/lib/net/main.lua"] = "LibRepository/stable/net/main.lua",
-	["/.ccam/lib/net/lib.json"] = "LibRepository/stable/net/lib.json",
+	["/.ccam/lib/net/config.json"] = "LibRepository/stable/net/config.json",
 
 	["/.ccam/lib/utils/main.lua"] = "LibRepository/stable/utils/main.lua",
-	["/.ccam/lib/utils/lib.json"] = "LibRepository/stable/utils/lib.json"
+	["/.ccam/lib/utils/config.json"] = "LibRepository/stable/utils/config.json"
 
 }
 
